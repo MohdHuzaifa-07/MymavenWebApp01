@@ -25,7 +25,7 @@
 
     <!-- ✅ Build -->
     <build>
-        <finalName>MyMavenWebApp</finalName>
+        <finalName>MymavenWebApp</finalName>
 
         <plugins>
             <plugin>
